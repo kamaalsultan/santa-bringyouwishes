@@ -1,8 +1,8 @@
 <h1 align="center">
-  𝓛𝓲𝓯𝓮 𝓲𝓼 𝓪 𝓰𝓪𝓻𝓭𝓮𝓷, 𝓼𝓸 𝓶𝓪𝓴𝓮 𝓲𝓽 𝓪𝓷 𝓪𝓻𝓽. 🚀💻🔥
+  Bringing code to life, one wish at a time 🎅🏼✨
 </h1>
 <h3 align="center">
-  I am a Full Stack & AI Developer.
+  Full-stack & AI developer who will make your tech wishes come true
 </h3>
 
 <div align="center">
