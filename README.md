@@ -1,8 +1,8 @@
 <h1 align="center">
-  Bringing code to life, one wish at a time 🎅🏼✨
+  Bringing your eCommerce and AI dreams to life 🛍️🧠, one wish at a time 🎅🏼✨
 </h1>
 <h3 align="center">
-  Full-stack & AI developer who will make your tech wishes come true
+   Full-stack developer specializing in eCommerce and AI development
 </h3>
 
 <div align="center">
@@ -16,7 +16,7 @@
     <tr>
       <td valign="center" width="100px"><b>Frontend<b></td>
       <td valign="center" width="100px"><b>Backend<b></td>
-      <td valign="center" width="100px"><b>AI & ML<b></td>
+      <td valign="center" width="100px"><b>ECommerce & CMS<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -33,19 +33,34 @@
         <img src="https://img.shields.io/badge/Flutter-blue" />
       </td>      
       <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Node.js-blue" /> 
+        <img src="https://img.shields.io/badge/Express-blue" /> 
+        <img src="https://img.shields.io/badge/NestJS-blue" /> 
         <img src="https://img.shields.io/badge/Django-blue" /> 
         <img src="https://img.shields.io/badge/Flask-blue" /> 
         <img src="https://img.shields.io/badge/FastAPI-blue" /> 
-        <img src="https://img.shields.io/badge/Python-blue" /> 
-        <img src="https://img.shields.io/badge/Node.js-blue" /> 
-        <img src="https://img.shields.io/badge/Express-blue" /> 
-        <img src="https://img.shields.io/badge/Selenium-blue" />  
-        <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
-        <img src="https://img.shields.io/badge/PHP-blue" /> 
         <img src="https://img.shields.io/badge/Laravel-blue" /> 
-        <img src="https://img.shields.io/badge/Nest.js-blue" /> 
       </td>
-     <td valign="center" align="center" width="300px">
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Shopify-blue" /> 
+        <img src="https://img.shields.io/badge/Magento-blue" /> 
+        <img src="https://img.shields.io/badge/BigCommerce-blue" /> 
+        <img src="https://img.shields.io/badge/WooCommerce-blue" /> 
+        <img src="https://img.shields.io/badge/Wagtail-blue" /> 
+        <img src="https://img.shields.io/badge/Drupal-blue" /> 
+        <img src="https://img.shields.io/badge/WordPress-blue" /> 
+        <img src="https://img.shields.io/badge/Wix-blue" /> 
+      </td>
+    </tr>
+  </table>
+  
+ <table>
+    <tr>
+      <td valign="center" width="100px"><b>AI & Machine Learning<b></td>
+      <td valign="center" width="100px"><b>DevOps & Database<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
        <img src="https://img.shields.io/badge/Chatbot Development-blue" />  
        <img src="https://img.shields.io/badge/NLP-blue" />
        <img src="https://img.shields.io/badge/LLM-blue" />  
@@ -56,25 +71,6 @@
        <img src="https://img.shields.io/badge/Jupyter-blue" /> 
        <img src="https://img.shields.io/badge/Pandas-blue" /> 
        <img src="https://img.shields.io/badge/Numpy-blue" /> 
-      </td>
-    </tr>
-  </table>
-  
- <table>
-    <tr>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
-      <td valign="center" width="100px"><b>DevOps & Database<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solidity-blue" /> 
-        <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solana-blue" /> 
-        <img src="https://img.shields.io/badge/Golang-blue" /> 
-        <img src="https://img.shields.io/badge/Rust-blue" /> 
-        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
-        <img src="https://img.shields.io/badge/Bitcoin-blue" />
       </td>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/AWS-blue" /> 
